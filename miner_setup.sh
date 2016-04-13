@@ -23,6 +23,8 @@ tar -xvf qtminer2.tgz
 rm -f qtminer2.tgz
 chmod +X qtminer.sh
 
+sudo reboot now
+
 
 
 
