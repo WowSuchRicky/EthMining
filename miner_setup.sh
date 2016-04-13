@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+# Update sources and packages
+sudo apt-get update 
+sudo apt-get upgrade
 
 # Download AMD driver and SDK
 cd /tmp
